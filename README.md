@@ -24,5 +24,7 @@ Use the search bar to input a city name and view its weather details.
 Explore the 5-day forecast for a comprehensive look at upcoming weather trends.
 Chat with the Weather Chatbot to get instant weather updates for any city.
 
+![Screenshot 2024-11-27 232529](https://github.com/user-attachments/assets/75ec1a86-f26e-478b-a37a-59c4d4779324)
+![Screenshot 2024-11-27 232433](https://github.com/user-attachments/assets/e7b64105-15f7-4ad8-9c5f-dc0f563c543b)
 
 
